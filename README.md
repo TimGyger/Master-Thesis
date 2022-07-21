@@ -1,6 +1,6 @@
 # Master-Thesis
 
-This master thesis studied an exploratory version of the mean-variance (MV) problem formulated as an entropy-regularized, relaxed stochastic control problem. We derived the exploratory MV (EMV) algorithm by H. Wang \& X. Y. Zhou in [25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3706168) to solve this problem. Our goal was to implement the EMV algorithm, analyze its learning performance in a simulation study, and compare its out-of-sample performance to other methods in an empirical study.
+This master thesis studied an exploratory version of the mean-variance (MV) problem formulated as an entropy-regularized, relaxed stochastic control problem. We derived the exploratory MV (EMV) algorithm by H. Wang \& X. Y. Zhou in [[25](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3706168)] to solve this problem. Our goal was to implement the EMV algorithm, analyze its learning performance in a simulation study, and compare its out-of-sample performance to other methods in an empirical study.
 
 
 In the first part of the thesis, we presented the MV problem of finding an investment strategy that minimizes the variance of the final payoff while targeting a prespecified mean return. We solved this problem under some crucial assumptions.
